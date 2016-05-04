@@ -1,0 +1,14 @@
+final project for CSI4341 at Baylor University
+simulate a solar system, written in C++ and openGL.
+
+
+General idea:
+Solar system with accurate planet radius, orbit, orbit duration, inclination, moon, rings of Saturn, astroid belt and randomly generated meteors.
+Texture applied.
+Zoom in and zoom out allows you to feel inside of the space and get closed to any planet.
+
+Highlight: 
+realistic skybox
+particle added on sun
+Able to play around with the astroid by clicking them(this can only be done without any rotation applied).
+
