@@ -1,6 +1,7 @@
-final project for CSI4341 at Baylor University
-simulate a solar system, written in C++ and openGL.
-
+Final project for CSI4341 at Baylor University
+Simulation of a solar system, written in C++ and openGL.
+To run the project, you have to install glui and freeglut to you environment.
+I provided a awesome guide from my professor.
 
 General idea:
 Solar system with accurate planet radius, orbit, orbit duration, inclination, moon, rings of Saturn, astroid belt and randomly generated meteors.
